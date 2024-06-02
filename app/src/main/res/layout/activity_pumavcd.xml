@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pumavcd">
+
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/view_home"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-47dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="58dp"
+        android:layout_height="58dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="657dp"
+        android:src="@drawable/foto2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="321dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="586dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="PUMA Visual Communication Design"
+        android:textAlignment="center"
+        android:textColor="@color/material_dynamic_neutral80"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/memberVCD"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="485dp"
+        android:backgroundTint="@color/black"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Members of PUMA VCD"
+        android:textSize="19dp"
+        app:cornerRadius="20dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/lecturervcd"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="550dp"
+        android:backgroundTint="@color/black"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Lecturers of PUMA VCD"
+        android:textSize="19dp"
+        app:cornerRadius="20dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+
+    <Button
+        android:id="@+id/backpumavcd"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="616dp"
+        android:backgroundTint="@color/black"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="back"
+        android:textSize="19dp"
+        app:cornerRadius="20dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="362dp"
+        android:layout_height="229dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="211dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="291dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="PUMA (President University Major Association) of Visual Communication Design which was founded in 2018 is a non-profit organization at the major level in President University. PUMA VCD has 7 divisions with the purpose of serving President University's Major of Visual Communication Design."
+        android:textAlignment="center"
+        android:textSize="22dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/searchLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </LinearLayout>
+
+
+    <!-- ScrollView content -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

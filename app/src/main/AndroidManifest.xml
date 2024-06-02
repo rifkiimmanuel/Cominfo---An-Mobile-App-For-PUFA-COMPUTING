@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Projectfinal"
+        tools:targetApi="31">
+        <activity
+            android:name=".showdata"
+            android:exported="false" />
+        <activity
+            android:name=".LecturerIS"
+            android:exported="false" />
+        <activity
+            android:name=".uploadlecturer"
+            android:exported="false" />
+        <activity
+            android:name=".uploadlecturer_is"
+            android:exported="false" />
+        <activity
+            android:name=".updatepuma"
+            android:exported="false" />
+        <activity
+            android:name=".pumais_member"
+            android:exported="false" />
+        <activity
+            android:name=".pufa_member"
+            android:exported="false" />
+        <activity
+            android:name=".pumavcd_member"
+            android:exported="false" />
+        <activity
+            android:name=".pumait_member"
+            android:exported="false" />
+        <activity
+            android:name=".uploadmember_is"
+            android:exported="false" />
+        <activity
+            android:name=".updatepuma"
+            android:exported="false" />
+        <activity
+            android:name=".uploadlecturervcd"
+            android:exported="false" />
+        <activity
+            android:name=".uploadmember_it"
+            android:exported="false" />
+        <activity
+            android:name=".uploadmember_pufa"
+            android:exported="false" />
+        <activity
+            android:name=".uploadmember_vcd"
+            android:exported="false" />
+        <activity
+            android:name=".inputdata"
+            android:exported="false" />
+        <activity
+            android:name=".lecturerIT"
+            android:exported="false" />
+        <activity
+            android:name=".eventmain"
+            android:exported="false" />
+        <activity
+            android:name=".lecturervcd"
+            android:exported="false" />
+        <activity
+            android:name=".pufa"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".pumavcd"
+            android:exported="false" />
+        <activity
+            android:name=".pumais"
+            android:exported="false" />
+        <activity
+            android:name=".register"
+            android:exported="false" />
+        <activity
+            android:name=".Event1"
+            android:exported="false" />
+        <activity
+            android:name=".DataClass"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyAdapter2"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pumait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
