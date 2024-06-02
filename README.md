@@ -38,4 +38,4 @@
  administrative control, facilitating organization of important information within the application
  In this project database that used is Firebase for Authentication and Realtime Database
 
- image.png
+# This is the interface display and demonstration
