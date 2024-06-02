@@ -39,13 +39,18 @@
  controlled and accurate dissemination of event details for the benefit of computing students. This
  approach guarantees that the computing community remains well-informed about the entirety of
  events, both historical and forthcoming, contributing to a informed engagement with the
- academic calendar
-![Screenshot 2024-06-02 221643](https://github.com/rifkiimmanuel/Cominfo---An-Mobile-App-For-PUFA-COMPUTING/assets/118416978/6d8893e2-ec10-4e8c-9d85-2089cebb3192)
+ academic calendar.
+ 
+ ![Screenshot 2024-06-02 221643](https://github.com/rifkiimmanuel/Cominfo---An-Mobile-App-For-PUFA-COMPUTING/assets/118416978/6d8893e2-ec10-4e8c-9d85-2089cebb3192)
 
-This is for the Login And Register Page
-![Screenshot 2024-06-02 221733](https://github.com/rifkiimmanuel/Cominfo---An-Mobile-App-For-PUFA-COMPUTING/assets/118416978/22d653a5-7d51-426b-aa4f-097c0983cc1d)
+ This for the login and register page 
+ ![Screenshot 2024-06-02 222145](https://github.com/rifkiimmanuel/Cominfo---An-Mobile-App-For-PUFA-COMPUTING/assets/118416978/862d87ac-7574-4bf4-9350-6d5a92139a73)
 
-And This is for the Documentation of Firebase that used in this project
-![Screenshot 2024-06-02 221738](https://github.com/rifkiimmanuel/Cominfo---An-Mobile-App-For-PUFA-COMPUTING/assets/118416978/4da39bd1-8cf2-40d4-9880-d2b93bf2e797)
+
+ 
+ And this is for the Documentation of Firebase that used in this project.
+
+ ![Screenshot 2024-06-02 221733](https://github.com/rifkiimmanuel/Cominfo---An-Mobile-App-For-PUFA-COMPUTING/assets/118416978/22d653a5-7d51-426b-aa4f-097c0983cc1d)
+ ![Screenshot 2024-06-02 221738](https://github.com/rifkiimmanuel/Cominfo---An-Mobile-App-For-PUFA-COMPUTING/assets/118416978/4da39bd1-8cf2-40d4-9880-d2b93bf2e797)
 
 
